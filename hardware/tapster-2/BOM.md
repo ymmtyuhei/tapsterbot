@@ -73,6 +73,10 @@
     Qty     Description                                                         Part #          Unit Price
     1       SainSmart Sensor Shield Digital Analog Module V4                    B006TQ314G      $11.80
 
+#### Compatible?
+ - [センサ/サーボシールド - aitendo](http://www.aitendo.com/product/10807) / v4
+  - [センサシールド - aitendo](http://www.aitendo.com/product/10224) / v5
+
 ### Monoprice.com
     Qty     Description     Long Description                                Part #          Unit Price
     1       USB cable       3ft USB 2.0 A Male to B Male 28/24AWG Cable     5437            $1.02
