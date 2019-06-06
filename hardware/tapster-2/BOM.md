@@ -12,7 +12,7 @@
     3       Upper arm
 
 
-    3D Print or Mill:
+    3D Print or Mill (Thickness 8mm):
     Qty     Description
     1       Top plate
     1       Base plate
@@ -22,6 +22,10 @@
 ### IndigoInstruments.com
     Qty     Description                                             Part #          Unit Price
     24      Rod magnet, D5 x 7.5mm, Nd rare earth, N42              44201-7.5       $0.44
+
+#### Compatible?
+[ネオジウム磁石の販売会社サンギョウサプライ/φ5×7](https://www.e-sangyo.jp/neo/r/item/neo-d5X7.html)
+
 
 ### McMaster-Carr
     Socket Bolts:
@@ -48,6 +52,10 @@
 ### Servocity
     Qty     Description                                             Part #          Unit Price
     3       Hitec HS-311 servo (clockwise rotation)                 31311S          $7.99
+
+#### Compatible?
+ - [ＧＷＳサーボ　Ｓ０３Ｎ／２ＢＢＭＧ／ＪＲタイプ: パーツ一般 秋月電子通商-電子部品・ネット通販](http://akizukidenshi.com/catalog/g/gM-01793/)
+ - [スタンダードサーボモータ: パーツ一般 秋月電子通商-電子部品・ネット通販](http://akizukidenshi.com/catalog/g/gM-06837/)
 
 ### Staples
     Qty     Description     Long Description                        Part #          Unit Price
