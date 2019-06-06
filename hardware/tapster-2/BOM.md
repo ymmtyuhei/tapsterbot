@@ -36,7 +36,7 @@ Qty     | Description                                             | Part #      
 #### Socket Bolts:
 
 Qty     | Description     | Long Description:                               | Part #        | Unit Price
----|---|---|---|---|---
+---|---|---|---|---
 5       | 4-40 1/2 in     | Black-Oxide Alloy Steel Socket Head Cap Screw   | 91251A110     | $8.34 per pack of 100
 6       | 6-32 3/4 in     | Black-Oxide Alloy Steel Socket Head Cap Screw   | 91251A151     | $8.50 per pack of 100
 30      | 10-32 3/4 in    | Black-Oxide Alloy Steel Socket Head Cap Screw   | 91251A345     | $9.93 per pack of 100
@@ -55,7 +55,7 @@ Qty     | Description             | Long Description:                           
 #### Misc:
 
 Qty     | Description                                 | Long Description:                   | Part #      | Unit Price
----|---|---|---|---|---
+---|---|---|---|---
 12      | 3/8" Steel ball bearing                     |                                     | 96455K54    | $5.87 per pack of 250
 6       | 12cm 6-32 Zinc-plated steel threaded rod    | (Sold in 6ft sections)              | 98914A007   | $3.67 for 6ft
 
