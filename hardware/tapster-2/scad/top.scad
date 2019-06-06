@@ -13,11 +13,13 @@ module beam(number_of_holes, step=8) {
 
 
 module joint(){
+    // 8mmの部材を使うところを6mmに変更した
+    side_thickness = 6.8; // 9.1 
     translate([-20.5,-85,-4])
-    cube([5,9.1,20]);
+    cube([5,side_thickness,20]);
 
     translate([15.5,-85,-4])
-    cube([5,9.1,20]);
+    cube([5,side_thickness,20]);
 
     translate([0,-beam_width*10,-10])
     cylinder(r=hole_radius, h=25, $fn=30);
@@ -42,6 +44,7 @@ union(){
 
         // Base plate
         //cube([8*9, beam_width * 9, 4]);
+        // 半径97mmの六角形
         cylinder(r=beam_width*12+1, h=4, $fn=6);
 
         // Center hole

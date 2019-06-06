@@ -14,11 +14,14 @@ module beam(number_of_holes) {
 }
 
 module joint(){
+    // 8mmの部材を使うところを6mmに変更した
+    side_thickness = 6.8; // 9.1 
+    
     translate([-20.5,-85,-4])
-    cube([5,9.1,12]);
+    cube([5,side_thickness,12]);
 
     translate([15.5,-85,-4])
-    cube([5,9.1,12]);
+    cube([5,side_thickness,12]);
 
     translate([0,-beam_width*10,-10])
     cylinder(r=hole_radius, h=25, $fn=30);
